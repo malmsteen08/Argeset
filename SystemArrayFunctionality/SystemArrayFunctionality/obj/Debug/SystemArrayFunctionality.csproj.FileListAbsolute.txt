@@ -1,0 +1,5 @@
+C:\Users\NZR\Desktop\Argeset\SystemArrayFunctionality\SystemArrayFunctionality\bin\Debug\SystemArrayFunctionality.exe
+C:\Users\NZR\Desktop\Argeset\SystemArrayFunctionality\SystemArrayFunctionality\bin\Debug\SystemArrayFunctionality.pdb
+C:\Users\NZR\Desktop\Argeset\SystemArrayFunctionality\SystemArrayFunctionality\obj\Debug\SystemArrayFunctionality.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Desktop\Argeset\SystemArrayFunctionality\SystemArrayFunctionality\obj\Debug\SystemArrayFunctionality.exe
+C:\Users\NZR\Desktop\Argeset\SystemArrayFunctionality\SystemArrayFunctionality\obj\Debug\SystemArrayFunctionality.pdb
