@@ -1,0 +1,5 @@
+C:\Users\NZR\Desktop\Argeset\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\NZR\Desktop\Argeset\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\NZR\Desktop\Argeset\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Desktop\Argeset\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\NZR\Desktop\Argeset\TestApp\TestApp\obj\Debug\TestApp.pdb
