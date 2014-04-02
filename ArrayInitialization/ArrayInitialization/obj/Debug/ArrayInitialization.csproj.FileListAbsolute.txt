@@ -1,0 +1,5 @@
+C:\Users\NZR\Desktop\Argeset\ArrayInitialization\ArrayInitialization\bin\Debug\ArrayInitialization.exe
+C:\Users\NZR\Desktop\Argeset\ArrayInitialization\ArrayInitialization\bin\Debug\ArrayInitialization.pdb
+C:\Users\NZR\Desktop\Argeset\ArrayInitialization\ArrayInitialization\obj\Debug\ArrayInitialization.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Desktop\Argeset\ArrayInitialization\ArrayInitialization\obj\Debug\ArrayInitialization.exe
+C:\Users\NZR\Desktop\Argeset\ArrayInitialization\ArrayInitialization\obj\Debug\ArrayInitialization.pdb
