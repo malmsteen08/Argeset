@@ -1,0 +1,5 @@
+C:\Users\NZR\Desktop\Argeset\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Desktop\Argeset\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\NZR\Desktop\Argeset\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\NZR\Desktop\Argeset\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\NZR\Desktop\Argeset\Calculator\Calculator\obj\Debug\Calculator.pdb
