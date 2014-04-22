@@ -4,7 +4,7 @@ namespace SendingObjectStateNotificationsUsingDelegates
 {
 	public class Car
 	{
-		public const int MaxSpeed { get ; set; }
+		public int MaxSpeed { get ; set; }//const ile ilk deger atanmak zorunda
 		public int CurrentSpeed { get ; set; }
 		public string PetName { get ; set; }
 		private bool carIsDead ;
