@@ -1,11 +1,9 @@
 using System;
 
-namespace Application
+namespace TheSimplestPossibleExample
 {
-
-	class Car
+	public static class Car
 	{
-
 		public const int MaxSpeed = 100;
 		public int CurrentSpeed { get ; set; }
 		public string PetName { get ; set; }
@@ -13,7 +11,7 @@ namespace Application
 		private Radio theMusicBox = new Radio();
 
 		public Car (){}
-			
+
 		public Car (string name, int speed)
 		{
 			CurrentSpeed = speed;
@@ -45,8 +43,6 @@ namespace Application
 				}
 
 			}
-
-		}
+	}
 
 }
-

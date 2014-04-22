@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheSimplestPossibleExample/Main.cs">
+    <Files>
+      <File FileName="TheSimplestPossibleExample/Main.cs" Line="8" Column="25" />
+      <File FileName="TheSimplestPossibleExample/Car.cs" Line="10" Column="27" />
+      <File FileName="TheSimplestPossibleExample/Radio.cs" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

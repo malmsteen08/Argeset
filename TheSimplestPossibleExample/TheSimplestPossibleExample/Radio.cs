@@ -1,8 +1,8 @@
 using System;
 
-namespace Application
+namespace TheSimplestPossibleExample
 {
-	class Radio
+	private class Radio
 	{
 		public void TurnOn(bool on)
 		{
@@ -14,5 +14,6 @@ namespace Application
 			}
 		}
 	}
-}
 
+
+}
