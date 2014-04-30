@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverridingSystem.Object.Finalize/MyResourceWrapper.cs">
+    <Files>
+      <File FileName="OverridingSystem.Object.Finalize/Main.cs" Line="21" Column="48" />
+      <File FileName="OverridingSystem.Object.Finalize/MyResourceWrapper.cs" Line="25" Column="3" />
+      <File FileName="OverridingSystem.Object.Finalize/IDisposable.cs" Line="7" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

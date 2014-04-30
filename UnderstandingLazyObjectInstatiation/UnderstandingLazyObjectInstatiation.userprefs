@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingLazyObjectInstatiation/MediaPlayer.cs">
+    <Files>
+      <File FileName="UnderstandingLazyObjectInstatiation/Main.cs" Line="15" Column="42" />
+      <File FileName="UnderstandingLazyObjectInstatiation/Song.cs" Line="6" Column="2" />
+      <File FileName="UnderstandingLazyObjectInstatiation/AllTracks.cs" Line="7" Column="3" />
+      <File FileName="UnderstandingLazyObjectInstatiation/MediaPlayer.cs" Line="21" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
