@@ -1,0 +1,5 @@
+C:\Users\NZR\Documents\GitHub\Test\BuildingACostumMetadataViewer\BuildingACostumMetadataViewer\bin\Debug\BuildingACostumMetadataViewer.exe
+C:\Users\NZR\Documents\GitHub\Test\BuildingACostumMetadataViewer\BuildingACostumMetadataViewer\bin\Debug\BuildingACostumMetadataViewer.pdb
+C:\Users\NZR\Documents\GitHub\Test\BuildingACostumMetadataViewer\BuildingACostumMetadataViewer\obj\Debug\BuildingACostumMetadataViewer.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Documents\GitHub\Test\BuildingACostumMetadataViewer\BuildingACostumMetadataViewer\obj\Debug\BuildingACostumMetadataViewer.exe
+C:\Users\NZR\Documents\GitHub\Test\BuildingACostumMetadataViewer\BuildingACostumMetadataViewer\obj\Debug\BuildingACostumMetadataViewer.pdb

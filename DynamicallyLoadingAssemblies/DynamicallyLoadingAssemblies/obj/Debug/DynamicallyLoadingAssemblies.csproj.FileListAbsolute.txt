@@ -1,0 +1,5 @@
+C:\Users\NZR\Documents\GitHub\Test\DynamicallyLoadingAssemblies\DynamicallyLoadingAssemblies\bin\Debug\DynamicallyLoadingAssemblies.exe
+C:\Users\NZR\Documents\GitHub\Test\DynamicallyLoadingAssemblies\DynamicallyLoadingAssemblies\bin\Debug\DynamicallyLoadingAssemblies.pdb
+C:\Users\NZR\Documents\GitHub\Test\DynamicallyLoadingAssemblies\DynamicallyLoadingAssemblies\obj\Debug\DynamicallyLoadingAssemblies.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Documents\GitHub\Test\DynamicallyLoadingAssemblies\DynamicallyLoadingAssemblies\obj\Debug\DynamicallyLoadingAssemblies.exe
+C:\Users\NZR\Documents\GitHub\Test\DynamicallyLoadingAssemblies\DynamicallyLoadingAssemblies\obj\Debug\DynamicallyLoadingAssemblies.pdb

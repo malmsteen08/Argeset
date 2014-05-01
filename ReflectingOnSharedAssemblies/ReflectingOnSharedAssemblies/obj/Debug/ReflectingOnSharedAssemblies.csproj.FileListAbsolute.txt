@@ -1,0 +1,5 @@
+C:\Users\NZR\Documents\GitHub\Test\ReflectingOnSharedAssemblies\ReflectingOnSharedAssemblies\obj\Debug\ReflectingOnSharedAssemblies.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Documents\GitHub\Test\ReflectingOnSharedAssemblies\ReflectingOnSharedAssemblies\bin\Debug\ReflectingOnSharedAssemblies.exe
+C:\Users\NZR\Documents\GitHub\Test\ReflectingOnSharedAssemblies\ReflectingOnSharedAssemblies\bin\Debug\ReflectingOnSharedAssemblies.pdb
+C:\Users\NZR\Documents\GitHub\Test\ReflectingOnSharedAssemblies\ReflectingOnSharedAssemblies\obj\Debug\ReflectingOnSharedAssemblies.exe
+C:\Users\NZR\Documents\GitHub\Test\ReflectingOnSharedAssemblies\ReflectingOnSharedAssemblies\obj\Debug\ReflectingOnSharedAssemblies.pdb
