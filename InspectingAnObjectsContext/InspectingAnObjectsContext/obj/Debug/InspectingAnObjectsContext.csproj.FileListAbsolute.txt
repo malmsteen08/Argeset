@@ -1,0 +1,5 @@
+C:\Users\NZR\Documents\GitHub\Test\InspectingAnObjectsContext\InspectingAnObjectsContext\bin\Debug\InspectingAnObjectsContext.exe
+C:\Users\NZR\Documents\GitHub\Test\InspectingAnObjectsContext\InspectingAnObjectsContext\bin\Debug\InspectingAnObjectsContext.pdb
+C:\Users\NZR\Documents\GitHub\Test\InspectingAnObjectsContext\InspectingAnObjectsContext\obj\Debug\InspectingAnObjectsContext.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Documents\GitHub\Test\InspectingAnObjectsContext\InspectingAnObjectsContext\obj\Debug\InspectingAnObjectsContext.exe
+C:\Users\NZR\Documents\GitHub\Test\InspectingAnObjectsContext\InspectingAnObjectsContext\obj\Debug\InspectingAnObjectsContext.pdb

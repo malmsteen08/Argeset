@@ -1,0 +1,5 @@
+C:\Users\NZR\Documents\GitHub\Test\EnumeratingRunnigProcess\EnumeratingRunnigProcess\bin\Debug\EnumeratingRunnigProcess.exe
+C:\Users\NZR\Documents\GitHub\Test\EnumeratingRunnigProcess\EnumeratingRunnigProcess\bin\Debug\EnumeratingRunnigProcess.pdb
+C:\Users\NZR\Documents\GitHub\Test\EnumeratingRunnigProcess\EnumeratingRunnigProcess\obj\Debug\EnumeratingRunnigProcess.csprojResolveAssemblyReference.cache
+C:\Users\NZR\Documents\GitHub\Test\EnumeratingRunnigProcess\EnumeratingRunnigProcess\obj\Debug\EnumeratingRunnigProcess.exe
+C:\Users\NZR\Documents\GitHub\Test\EnumeratingRunnigProcess\EnumeratingRunnigProcess\obj\Debug\EnumeratingRunnigProcess.pdb
