@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABriefReviewOfTheNetDelegate", "ABriefReviewOfTheNetDelegate\ABriefReviewOfTheNetDelegate.csproj", "{789ED799-88AA-4699-AC2F-54470F7CEAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789ED799-88AA-4699-AC2F-54470F7CEAD4}.Debug|x86.ActiveCfg = Debug|x86
+		{789ED799-88AA-4699-AC2F-54470F7CEAD4}.Debug|x86.Build.0 = Debug|x86
+		{789ED799-88AA-4699-AC2F-54470F7CEAD4}.Release|x86.ActiveCfg = Release|x86
+		{789ED799-88AA-4699-AC2F-54470F7CEAD4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ABriefReviewOfTheNetDelegate\ABriefReviewOfTheNetDelegate.csproj
+	EndGlobalSection
+EndGlobal
