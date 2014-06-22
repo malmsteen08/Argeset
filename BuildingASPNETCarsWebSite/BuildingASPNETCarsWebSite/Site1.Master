@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="BuildingASPNETCarsWebSite.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <hr />
+        <asp:Label ID="Label1" runat="server" Font-Size="XX-Large"
+            Text="Welcome To the ASP.Net Cars Super Site"></asp:Label>
+        <asp:AdRotator ID="myAdRotator" runat="server" 
+            AdvertisementFile="~/Ads.xml" />
+        &nbsp;<br />
+        <br />
+        <asp:TreeView ID="navigationTree" runat="server" DataSourceID="SiteMapDataSource1"></asp:TreeView>
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        <hr />
+    </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false"
+            DataKeyNames="CarID" DataSourceID="SqlDataSource1"
+            EmptyDataText="There are no data records to display">
+            <Columns>
+                <asp:BoundField DataField="CarID" HeaderText="CarID" ReadOnly="true"
+                    SortExpression="CarID" />
+                <asp:BoundField DataField="Make" HeaderText="Make" SortExpression="Make" />
+                <asp:BoundField DataField="Color" HeaderText="Color" SortExpression="Color" />
+                <asp:BoundField DataField="PetName" HeaderText="PetName" SortExpression="PetName" />
+                
+            </Columns>
+            
+        </asp:GridView>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server"
+            ConnectionString="<%$ConnectionString:AutoLotConnectionString1 %>"
+            DeleteCommand="DELETE FROM [Inventory] WHERE [CarID] = @CarID"
+            InsertCommand="INSERT INTO[Inventory] ([CarID], [Make], [Color], [PetName])
+            VALUES (@CarID, @Make, @Color, @PetName)"
+            ProviderName="<%$ ConnectionStrings:AutoLotConnectionString1.ProviderName %>"
+            SelectCommand="SELECT [CarID],[Make], [Color], [PetName] FROM [Inventory]"
+            UpdateCommand="UPDATE [Inventory] SET [MAKE] = @Make, 
+            [Color] = @Color, [PetName] = @PetName WHERE [CarID] = @CarID">
+            <DeleteParameters>
+                <asp:Parameter Name="CarID" Type="Int32" />
+            </DeleteParameters>
+            <UpdateParameters>
+                <asp:Parameter Name="Make" Type="String" />
+                <asp:Parameter Name="Color" Type="String" />
+                <asp:Parameter Name="PetName" Type="String" />
+                <asp:Parameter Name="CarID" Type="Int32" />
+            </UpdateParameters>
+            <InsertParameters>
+                <asp:Parameter Name="CarID" Type="Int32" />
+                <asp:Parameter Name="Make" Type="String" />
+                <asp:Parameter Name="Color" Type="String" />
+                <asp:Parameter Name="PetName" Type="String" />
+            </InsertParameters>
+        </asp:SqlDataSource> 
+    </form>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\bin\BuildingASPNETCarsWebSite.dll.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\bin\BuildingASPNETCarsWebSite.dll
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\bin\BuildingASPNETCarsWebSite.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\obj\Debug\BuildingASPNETCarsWebSite.csprojResolveAssemblyReference.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\obj\Debug\BuildingASPNETCarsWebSite.dll
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASPNETCarsWebSite\BuildingASPNETCarsWebSite\obj\Debug\BuildingASPNETCarsWebSite.pdb
