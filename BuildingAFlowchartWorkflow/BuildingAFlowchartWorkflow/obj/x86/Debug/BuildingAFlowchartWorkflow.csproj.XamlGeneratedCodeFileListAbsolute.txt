@@ -1,0 +1,4 @@
+obj\x86\Debug\_BuildingAFlowchartWorkflow.g.cs
+obj\x86\Debug\MachineInfoWF.g.cs
+obj\x86\Debug\BuildingAFlowchartWorkflow_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAFlowchartWorkflow\BuildingAFlowchartWorkflow\obj\x86\Debug\BuildingAFlowchartWorkflow_Workflow1_CompiledExpressionRoot.cs

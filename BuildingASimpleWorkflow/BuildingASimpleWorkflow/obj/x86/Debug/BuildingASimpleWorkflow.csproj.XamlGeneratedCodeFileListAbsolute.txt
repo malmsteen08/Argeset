@@ -1,0 +1,4 @@
+obj\x86\Debug\_BuildingASimpleWorkflow.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\BuildingASimpleWorkflow_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingASimpleWorkflow\BuildingASimpleWorkflow\obj\x86\Debug\BuildingASimpleWorkflow_Workflow1_CompiledExpressionRoot.cs

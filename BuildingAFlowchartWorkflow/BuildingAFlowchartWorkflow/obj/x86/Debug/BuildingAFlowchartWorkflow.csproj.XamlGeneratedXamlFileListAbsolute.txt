@@ -1,0 +1,2 @@
+obj\x86\Debug\MachineInfoWF.g.xaml
+obj\x86\Debug\BuildingAFlowchartWorkflow_Workflow1_BeforeInitializeComponentHelper.txt
