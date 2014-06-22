@@ -1,0 +1,13 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\bin\Debug\CostumXAMLEditorWithVS.exe.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\bin\Debug\CostumXAMLEditorWithVS.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\bin\Debug\CostumXAMLEditorWithVS.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.csprojResolveAssemblyReference.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\MainWindow.baml
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\MainWindow.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\App.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS_MarkupCompile.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.g.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.Properties.Resources.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.csproj.GenerateResource.Cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\CostumXAMLEditorWithVS\CostumXAMLEditorWithVS\obj\Debug\CostumXAMLEditorWithVS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\bin\Debug\BuildingAWPFAppWithoutXAML.exe.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\bin\Debug\BuildingAWPFAppWithoutXAML.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\bin\Debug\BuildingAWPFAppWithoutXAML.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\obj\Debug\BuildingAWPFAppWithoutXAML.csprojResolveAssemblyReference.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\obj\Debug\BuildingAWPFAppWithoutXAML.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingAWPFAppWithoutXAML\BuildingAWPFAppWithoutXAML\obj\Debug\BuildingAWPFAppWithoutXAML.pdb

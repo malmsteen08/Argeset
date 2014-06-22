@@ -1,0 +1,1 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\BuildingWindowsFrameUsingNestedPanels\BuildingWindowsFrameUsingNestedPanels\bin\Debug\BuildingWindowsFrameUsingNestedPanels.exe.config

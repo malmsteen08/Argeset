@@ -1,0 +1,15 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\bin\Debug\DefiningWindowWideResources.exe.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.csprojResolveAssemblyReference.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\MainWindow.baml
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\MainWindow.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\App.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources_MarkupCompile.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.g.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.Properties.Resources.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.csproj.GenerateResource.Cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\bin\Debug\DefiningWindowWideResources.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\bin\Debug\DefiningWindowWideResources.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\DefiningWindowWideResources.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\myBrushes.baml
+C:\Users\Nezir\Desktop\GitHubRepository\Test\DefiningWindowWideResources\DefiningWindowWideResources\obj\Debug\App.baml

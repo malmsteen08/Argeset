@@ -1,0 +1,12 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\bin\Debug\UnderstandingRoutedEvents.exe.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\bin\Debug\UnderstandingRoutedEvents.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\bin\Debug\UnderstandingRoutedEvents.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\App.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents_MarkupCompile.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents.g.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents.Properties.Resources.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents.csproj.GenerateResource.Cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\UnderstandingRoutedEvents\UnderstandingRoutedEvents\obj\Debug\UnderstandingRoutedEvents.pdb

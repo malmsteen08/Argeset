@@ -1,0 +1,13 @@
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\bin\Debug\WorkingWithBinaryResources.exe.config
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\bin\Debug\WorkingWithBinaryResources.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\bin\Debug\WorkingWithBinaryResources.pdb
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.csprojResolveAssemblyReference.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\MainWindow.baml
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\MainWindow.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\App.g.cs
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources_MarkupCompile.cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.g.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.Properties.Resources.resources
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.csproj.GenerateResource.Cache
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.exe
+C:\Users\Nezir\Desktop\GitHubRepository\Test\WorkingWithBinaryResources\WorkingWithBinaryResources\obj\Debug\WorkingWithBinaryResources.pdb
